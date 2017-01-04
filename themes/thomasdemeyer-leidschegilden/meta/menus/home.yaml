@@ -1,0 +1,13 @@
+name: Home
+items:
+    -
+        title: 'New menu item'
+        nesting: '0'
+        type: static-page
+        code: ''
+        reference: algemene-voorwaarden
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'

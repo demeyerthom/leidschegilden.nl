@@ -1,0 +1,12 @@
+name: 'Leidsche gildes'
+description: 'Leidsche gildes thema'
+author: 'Thomas De Meyer'
+homepage: ''
+code: Leidsche-gildes
+authorUrl:
+form:
+    fields:
+        site_name:
+            label: 'Leidsche gilden'
+            comment: 'The website name as it should appear on the front-end'
+            default: leidschegilden
